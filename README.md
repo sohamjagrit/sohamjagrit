@@ -24,9 +24,11 @@
 ---
 
 ## 📊 GitHub Stats
+![Your Contributions](https://github-readme-stats.vercel.app/api?username=&show_icons=tsohamjagritrue&hide_title=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamjagrit&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamjagrit&layout=compact&theme=tokyonight)
+
 
 ---
 
