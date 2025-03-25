@@ -24,6 +24,8 @@
 ---
 
 ## 📊 GitHub Stats
+![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sohamjagrit&theme=github)
+
 ![Your Contributions](https://github-readme-stats.vercel.app/api?username=sohamjagrit&show_icons=true&hide_title=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohamjagrit&theme=radical)
 
