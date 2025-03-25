@@ -21,24 +21,24 @@
 ---
 
 ## 📌 Featured Projects
-- 🔥 **[Nutribot](https://github.com/soham-nikunj-jagrit/nutribot)** – AI chatbot for personalized nutrition advice and strength conditioning 
-- 🔄 **[Electric Demand Forecasting](https://github.com/soham-nikunj-jagrit/time-series-forecasting)** – Forecasting electricity consumption in DFW area  
-- 💳 **[End to End Loan Approval System](https://github.com/soham-nikunj-jagrit/credit-score-prediction)** – ML model to assess loan eligibility  
+- 🔥 **[Nutribot](https://github.com/soham-nikunj-jagrit/nutribot)** – AI chatbot for nutrition advice and strength conditioning 
+- 🔄 **[Electric Demand Forecasting](https://github.com/soham-nikunj-jagrit/time-series-forecasting)** – Using electricity consumption data to predict the demand in DFW.  
+- 💳 **[End to End Loan Approval System](https://github.com/soham-nikunj-jagrit/credit-score-prediction)** – A web app to assess an individual's loan eligibility.  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soham-nikunj-jagrit&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamjagrit&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soham-nikunj-jagrit&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamjagrit&layout=compact&theme=tokyonight)
 
 ---
 
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-nikunj-jagrit/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soham-nikunj-jagrit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohamjagrit/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sohamjagrit)
 
 <!--
 **sohamjagrit/sohamjagrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
