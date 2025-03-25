@@ -23,12 +23,17 @@
 
 ---
 
-## 📊 GitHub Stats
-![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sohamjagrit&theme=github)
+## 📊 GitHub Stats & Contributions
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamjagrit&show_icons=true&hide_title=true)
 
-![Your Contributions](https://github-readme-stats.vercel.app/api?username=sohamjagrit&show_icons=true&hide_title=true)
+### GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohamjagrit&theme=radical)
 
+### Contribution Calendar:
+![Your Contributions Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=sohamjagrit&theme=github)
+
+### Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=sohamjagrit)
 
 ---
 
