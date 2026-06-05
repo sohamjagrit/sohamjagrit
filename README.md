@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Soham Jagrit!
 
-🚀 **Data Science | Machine Learning | AI Enthusiast**  
-🎓 **MS in Data Science @ University of Texas at Arlington** (Graduating May 2026) 
-💡 Passionate about **Time Series Forecasting, Energy Analytics, and applying AI in the healthcare domain.**  
-📈 Transforming data into impact – Building projects on Predictive Analytics, Generative AI, and NLP.
-📝 Sharing my journey – Writing in-depth technical blogs without AI to document and share real-world learnings
-💼 Driving business growth – Passionate about building end-to-end AI solutions that help companies boost revenue
+-🚀 **Data Science | LLM's | AI Enthusiast**  
+-🎓 **Recent MS in Data Science Graduate @ University of Texas at Arlington** 
+-🏢 **Prev Graduate Data Science Intern @ Delta TechOps**
+-📈 **Transforming data into impact – Building projects on Predictive Analytics, Generative AI, and NLP.**
+-📝 **I like to build that changes people's lives and write blogs.**
+-💡 **Currently working on **[mobius](https://github.com/sohamjagrit/mobius)** - A resume tailoring tool for recent grads.**
 
 ---
 
@@ -22,22 +22,6 @@
 - 💳 **[End to End Loan Approval System](https://github.com/sohamjagrit/End-to-End-Loan-Approval-System)** – A web app to assess an individual's loan eligibility.  
 
 ---
-
-## 📊 GitHub Stats & Contributions
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamjagrit&show_icons=true&hide_title=true)
-
-### GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohamjagrit&theme=radical)
-
-### Contribution Calendar:
-![Your Contributions Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=sohamjagrit&theme=github)
-
-### Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=sohamjagrit)
-
----
-
-
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohamjagrit/)
