@@ -19,7 +19,6 @@
 ## 📌 Featured Projects
 - 🔥 **[Nutribot](https://github.com/sohamjagrit/NutriBot)** – AI chatbot for nutrition advice and strength conditioning 
 - 🔄 **[Electric Demand Forecasting](https://github.com/sohamjagrit/Electric-Demand-Forecasting)** – Using electricity consumption data to predict the demand in DFW.  
-- 💳 **[End to End Loan Approval System](https://github.com/sohamjagrit/End-to-End-Loan-Approval-System)** – A web app to assess an individual's loan eligibility.  
 
 ---
 
